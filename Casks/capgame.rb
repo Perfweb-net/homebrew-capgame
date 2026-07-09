@@ -2,10 +2,10 @@ cask "capgame" do
   version "0.1.0"
   sha256 "d175f4ae7d7d67e7ba931bd4573c0c1c7d4467c82737cd912fa844ff88144ece"
 
-  url "https://github.com/Perfweb-net/record/releases/download/v#{version}/CapGame-#{version}-universal.dmg"
+  url "https://github.com/Perfweb-net/capgame-releases/releases/download/v#{version}/CapGame-#{version}-universal.dmg"
   name "CapGame"
   desc "Tampon circulaire d'enregistrement écran/son pour macOS"
-  homepage "https://github.com/Perfweb-net/record"
+  homepage "https://github.com/Perfweb-net/capgame-releases"
 
   depends_on macos: :ventura
 
