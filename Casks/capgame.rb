@@ -7,7 +7,7 @@ cask "capgame" do
   desc "Tampon circulaire d'enregistrement écran/son pour macOS"
   homepage "https://github.com/Perfweb-net/record"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "CapGame.app"
 
