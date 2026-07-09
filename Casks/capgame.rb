@@ -1,6 +1,6 @@
 cask "capgame" do
-  version "0.1.0"
-  sha256 "d175f4ae7d7d67e7ba931bd4573c0c1c7d4467c82737cd912fa844ff88144ece"
+  version "0.1.1"
+  sha256 "be0c8002d309fe41e1ac675b63536ace9c447ce7687ff3b60045106c19089109"
 
   url "https://github.com/Perfweb-net/capgame-releases/releases/download/v#{version}/CapGame-#{version}-universal.dmg"
   name "CapGame"
